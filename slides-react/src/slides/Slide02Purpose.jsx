@@ -3,7 +3,7 @@ const Slide02Purpose = () => (
     <h2>Purpose</h2>
     <div className="key-points">
       <div className="key-point">
-        <div className="key-point-icon">🎯</div>
+        <div className="key-point-icon">01</div>
         <div className="key-point-text">
           <span className="highlight">Understand customer pain points firsthand</span>
           <br />
@@ -14,7 +14,7 @@ const Slide02Purpose = () => (
         </div>
       </div>
       <div className="key-point">
-        <div className="key-point-icon">🧩</div>
+        <div className="key-point-icon">02</div>
         <div className="key-point-text">
           <span className="highlight">Contextualize Cursor's products within the SDLC</span>
           <br />
@@ -25,7 +25,7 @@ const Slide02Purpose = () => (
         </div>
       </div>
       <div className="key-point">
-        <div className="key-point-icon">💬</div>
+        <div className="key-point-icon">03</div>
         <div className="key-point-text">
           <span className="highlight">Leave with authentic stories to tell</span>
           <br />

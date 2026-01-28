@@ -3,7 +3,7 @@ const Slide04SdlcOverview = () => (
     <h2>The Software Development Lifecycle</h2>
     <div className="sdlc-flow">
       <div className="sdlc-item">
-        <div className="sdlc-icon">📋</div>
+        <div className="sdlc-icon">01</div>
         <div className="sdlc-name">Plan</div>
         <div className="sdlc-desc">
           Define requirements
@@ -13,7 +13,7 @@ const Slide04SdlcOverview = () => (
       </div>
       <div className="sdlc-arrow">→</div>
       <div className="sdlc-item">
-        <div className="sdlc-icon">🎨</div>
+        <div className="sdlc-icon">02</div>
         <div className="sdlc-name">Design</div>
         <div className="sdlc-desc">
           Architecture
@@ -23,7 +23,7 @@ const Slide04SdlcOverview = () => (
       </div>
       <div className="sdlc-arrow">→</div>
       <div className="sdlc-item">
-        <div className="sdlc-icon">💻</div>
+        <div className="sdlc-icon">03</div>
         <div className="sdlc-name">Develop</div>
         <div className="sdlc-desc">
           Write code
@@ -33,7 +33,7 @@ const Slide04SdlcOverview = () => (
       </div>
       <div className="sdlc-arrow">→</div>
       <div className="sdlc-item">
-        <div className="sdlc-icon">🧪</div>
+        <div className="sdlc-icon">04</div>
         <div className="sdlc-name">Test</div>
         <div className="sdlc-desc">
           Validate
@@ -43,7 +43,7 @@ const Slide04SdlcOverview = () => (
       </div>
       <div className="sdlc-arrow">→</div>
       <div className="sdlc-item">
-        <div className="sdlc-icon">👀</div>
+        <div className="sdlc-icon">05</div>
         <div className="sdlc-name">Review</div>
         <div className="sdlc-desc">
           Code review
@@ -53,7 +53,7 @@ const Slide04SdlcOverview = () => (
       </div>
       <div className="sdlc-arrow">→</div>
       <div className="sdlc-item">
-        <div className="sdlc-icon">🚀</div>
+        <div className="sdlc-icon">06</div>
         <div className="sdlc-name">Deploy</div>
         <div className="sdlc-desc">
           Ship to

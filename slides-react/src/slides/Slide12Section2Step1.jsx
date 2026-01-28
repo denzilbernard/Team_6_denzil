@@ -4,7 +4,7 @@ const Slide12Section2Step1 = () => (
       <span className="section-badge section2">Section 2</span>
       <span className="phase-badge">Step 1: Enable Advanced Features • 10 min</span>
     </div>
-    <h2>🔧 Set Up Cursor Power Features</h2>
+    <h2>Set Up Cursor Power Features</h2>
     <div className="scrollable">
       <div className="checklist">
         <div className="check-item">
@@ -37,7 +37,7 @@ const Slide12Section2Step1 = () => (
         </div>
       </div>
       <div className="emphasis-box orange">
-        <strong>💡 Tip:</strong> Use Cursor's docs and Ask Mode to figure these out.
+        <strong>Tip:</strong> Use Cursor's docs and Ask Mode to figure these out.
         That's the real skill!
       </div>
     </div>

@@ -7,21 +7,21 @@ const Slide06Section1Intro = () => (
     <h2>Build Something From Scratch</h2>
     <div className="key-points">
       <div className="key-point green">
-        <div className="key-point-icon">🎯</div>
+        <div className="key-point-icon">01</div>
         <div className="key-point-text">
           Experience the <span className="highlight-green">complete SDLC</span>:
           Plan → Design → Develop → Test
         </div>
       </div>
       <div className="key-point green">
-        <div className="key-point-icon">🛠️</div>
+        <div className="key-point-icon">02</div>
         <div className="key-point-text">
           Learn how <span className="highlight-green">Cursor assists at each stage</span>{' '}
           — not just code writing
         </div>
       </div>
       <div className="key-point green">
-        <div className="key-point-icon">🤝</div>
+        <div className="key-point-icon">03</div>
         <div className="key-point-text">
           Practice <span className="highlight-green">git workflow</span>: clone,
           commit, push, PR, review

@@ -4,7 +4,7 @@ const Slide13Section2Step2 = () => (
       <span className="section-badge section2">Section 2</span>
       <span className="phase-badge">Step 2: Understand the Code • 5 min</span>
     </div>
-    <h2>🔍 Explore the Other Team's Project</h2>
+    <h2>Explore the Other Team's Project</h2>
     <div className="checklist">
       <div className="check-item">
         <div className="check-box"></div>
